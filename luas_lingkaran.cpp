@@ -15,3 +15,8 @@ float luas(float a)
 {
     return phi * a * a;
 }
+
+void output()
+{
+    cout << "luas lingkaran: " << luas(r) << endl;
+}
