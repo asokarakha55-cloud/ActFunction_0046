@@ -3,7 +3,7 @@
 using namespace std;
 
 float r;
-const float phi = 3.14159;
+float phi = 3.14159;
 
 void input()
 {
