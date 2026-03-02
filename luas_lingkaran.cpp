@@ -10,3 +10,8 @@ void input()
     cout << "isikan jari : ";
     cin >> r;
 }
+
+float luas(float a)
+{
+    return phi * a * a;
+}
