@@ -16,3 +16,8 @@ int luaspersegi()
 {
     return panjang * lebar;
 }
+
+int kelilingpersegi()
+{
+    return 2 * (panjang + lebar);
+}
