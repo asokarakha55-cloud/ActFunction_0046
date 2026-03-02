@@ -20,3 +20,9 @@ void output()
 {
     cout << "luas lingkaran: " << luas(r) << endl;
 }
+
+int main()
+{
+    input();
+    output();
+}
