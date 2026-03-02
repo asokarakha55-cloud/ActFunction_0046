@@ -27,3 +27,9 @@ void output()
     cout << "Luas persegi: " << luaspersegi() << endl;
     cout << "Keliling persegi: " << kelilingpersegi() << endl;
 }
+
+int main()
+{
+    input();
+    output();
+}
